@@ -1,0 +1,14 @@
+.card-caes {
+  width: 250px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  border: 5px double rgb(65, 126, 65);
+  border-radius: 10px;
+  box-shadow: 1px 1px 20px 1px rgba(138, 231, 50, 0.76);
+}
+.card-caes > img {
+  width: 250px;
+  height: 250px;
+  border-radius: 5px;
+}
